@@ -20,9 +20,9 @@ Overview of the implemented graphs/charts:
 
 3) Crypto Volume traded over time![Bildschirmfoto 2022-05-30 um 15 51 46](https://user-images.githubusercontent.com/74066252/171017280-9c09eddd-4296-4df6-85dc-d28b24fc00f2.png)
 
-4)MACD! [Bildschirmfoto 2022-05-30 um 15 52 22](https://user-images.githubusercontent.com/74066252/171017360-f0cbdada-d2ca-41b6-97b3-d92e0e4afbac.png)
+4)MACD![Bildschirmfoto 2022-05-30 um 15 52 22](https://user-images.githubusercontent.com/74066252/171017360-f0cbdada-d2ca-41b6-97b3-d92e0e4afbac.png)
 
-5)RSI! [Bildschirmfoto 2022-05-30 um 15 52 40](https://user-images.githubusercontent.com/74066252/171017412-bf14b5d1-d995-4665-a633-bce85dcc46cf.png)
+5)RSI![Bildschirmfoto 2022-05-30 um 15 52 40](https://user-images.githubusercontent.com/74066252/171017412-bf14b5d1-d995-4665-a633-bce85dcc46cf.png)
 
 6)Prediction![Bildschirmfoto 2022-05-30 um 15 53 06](https://user-images.githubusercontent.com/74066252/171017486-bf911226-183c-4b16-a922-da4da89dea1c.png)
 ![Bildschirmfoto 2022-05-30 um 15 53 45](https://user-images.githubusercontent.com/74066252/171017591-51b33a98-eeb2-4956-9c91-f8b7768855ff.png)
