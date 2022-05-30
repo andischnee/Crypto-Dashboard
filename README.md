@@ -11,3 +11,8 @@ Description of how to run the streamlit dashboard.
 2. Add in your command field: "streamlit run + path of your downloaded document. 
 3. Dashboard will be displayed.
 
+
+Overview of the implemented graphs/charts:
+
+1) Crypto price over time![Bildschirmfoto 2022-05-30 um 15 49 57](https://user-images.githubusercontent.com/74066252/171016914-4cbb521c-f428-4722-a77b-c01741fc11bc.png)
+
